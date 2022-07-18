@@ -1,5 +1,5 @@
 # Autonomous Vehicle Object Detector
-bject Detector using Darknet and YOLOv4 to detect traffic signs, traffic lights, and other vehicles.
+Object Detector using Darknet and YOLOv4 to detect traffic signs, traffic lights, and other vehicles.
 
 
 
